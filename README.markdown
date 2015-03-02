@@ -80,6 +80,9 @@ Finally install the Google Chrome extension:
 
 http://bit.ly/dotjs
 
+Note that if you install the extension locally via "Load unpacked extension...", you must first run
+`bower install` from the `ext/` directory to install jquery and lodash.
+
 ## Uninstall it
 
     rake uninstall

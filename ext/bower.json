@@ -1,0 +1,25 @@
+{
+  "name": "dotjs",
+  "version": "1.9.1",
+  "homepage": "https://github.com/tupton/dotjs",
+  "authors": [
+    "Thomas Upton <tupton@datastax.com>"
+  ],
+  "description": "Run ~/.js/<hostname>.js",
+  "keywords": [
+    "extension"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "lodash": "~3.3.1"
+  }
+}
