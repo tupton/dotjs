@@ -1,4 +1,5 @@
-..................... dotjs ........................
+dotjs
+=====
 
 dotjs  is a  Google Chrome  extension  that executes
 JavaScript files in `~/.js` based on their filename.
@@ -68,7 +69,7 @@ the returned JavaScript.
     cd dotjs
     rake install
 
-Now open https://localhost:3131 in Chrome and follow these steps:
+Now open <https://localhost:3131> in Chrome and follow these steps:
 
 - Click the "X" Padlock icon in the address bar
 - Click "Certificate Information"
@@ -103,7 +104,7 @@ Note that if you install the extension locally via "Load unpacked extension...",
 
 ## Windows
 
-- [dotjs-win](https://github.com/p3lim/dotjs-win)
+- [dotjs-universal](https://github.com/p3lim/dotjs-universal)
 
 ## Other Browsers
 
