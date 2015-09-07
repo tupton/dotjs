@@ -11,10 +11,8 @@
     "matches":    ["http://*/*", "https://*/*"],
     "js":         ["bower_components/jquery/dist/jquery.min.js", "bower_components/lodash/lodash.min.js", "dotjs.js"]
   }],
-  "web_accessible_resources": [
-      "bower_components/jquery/dist/jquery.min.map"
-  ],
   "permissions": [
     "tabs"
-  ]
+  ],
+  "web_accessible_resources": ["bower_components/jquery/dist/jquery.min.map"]
 }
