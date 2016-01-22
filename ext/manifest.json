@@ -9,7 +9,7 @@
     "all_frames": true,
     "run_at":     "document_start",
     "matches":    ["http://*/*", "https://*/*"],
-    "js":         ["bower_components/jquery/dist/jquery.min.js", "bower_components/lodash/lodash.min.js", "dotjs.js"]
+    "js":         ["bower_components/jquery/dist/jquery.min.js", "bower_components/lodash/dist/lodash.min.js", "dotjs.js"]
   }],
   "permissions": [
     "tabs"
