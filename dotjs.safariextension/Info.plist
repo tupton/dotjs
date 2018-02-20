@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Builder Version</key>
-	<string>11601.6.17</string>
+	<string>13604.4.7.1.6</string>
 	<key>CFBundleDisplayName</key>
 	<string>dotjs</string>
 	<key>CFBundleIdentifier</key>
@@ -20,8 +20,8 @@
 		<dict>
 			<key>Start</key>
 			<array>
-				<string>bower_components/jquery/dist/jquery.min.js</string>
-				<string>bower_components/lodash/dist/lodash.min.js</string>
+				<string>node_modules/jquery/dist/jquery.min.js</string>
+				<string>node_modules/lodash/lodash.min.js</string>
 				<string>dotjs.js</string>
 			</array>
 		</dict>
